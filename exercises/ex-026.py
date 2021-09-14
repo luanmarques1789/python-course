@@ -8,5 +8,5 @@
 sentence = str(input("Enter something... ")).strip().lower()
 
 print(f'How many times does letter "A" look? {sentence.count("a")}')
-print(f'In what position does it look by first time? {sentence.find("a")}')
-print(f'In what position does it look by last time? {sentence.rfind("a")}')
+print(f'In what position does it look by first time? {sentence.find("a") + 1}')
+print(f'In what position does it look by last time? {sentence.rfind("a") + 1}')
