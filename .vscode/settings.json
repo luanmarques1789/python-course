@@ -1,0 +1,12 @@
+{
+	// code runner
+	"code-runner.ignoreSelection": true,
+	"code-runner.runInTerminal": true,
+
+	"python.linting.mypyEnabled": false,
+	"python.linting.flake8Enabled": true,
+
+	"[python]": {
+		"editor.formatOnSave": true
+	}
+}
