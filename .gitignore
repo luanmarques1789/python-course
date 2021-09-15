@@ -151,3 +151,4 @@ cython_debug/
 
 README.html
 .idea
+test.py
