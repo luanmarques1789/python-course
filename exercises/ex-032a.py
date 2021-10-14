@@ -1,7 +1,9 @@
-# BISSEXTUS YEAR
-# --------------
-# Make a proogram that reads some year and shows
-# if it is bissextus
+"""
+ BISSEXTUS YEAR
+ ---------------
+ Make a program that reads some year and shows
+ if it is bissextus
+"""
 
 from datetime import date
 

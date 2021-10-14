@@ -1,6 +1,9 @@
-# TIMES TABLES
-# Make a program that reads some integer number
-# and shows on screen its times tables
+"""
+ TIMES TABLES
+ -------------
+ Make a program that reads some integer number
+ and shows on screen its times tables
+"""
 
 num = int(input('Type some number for its times tables: '))
 

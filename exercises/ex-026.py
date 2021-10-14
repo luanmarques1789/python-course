@@ -1,9 +1,11 @@
-# FIRST AND LAST OCCURRENCE WITHIN A STRING
-# -----------------------------------------
-# Make a program that reads a sentence by keyboard and shows:
-# 1.1 How many times letter "A" looks
-# 1.2 In what position it looks by first time
-# 1.3 In what position it looks by last time
+"""
+ FIRST AND LAST OCCURRENCE WITHIN A STRING
+ -----------------------------------------
+ Make a program that reads a sentence by keyboard and shows:
+ 1.1 How many times letter "A" looks
+ 1.2 In what position it looks by first time
+ 1.3 In what position it looks by last time
+"""
 
 sentence = str(input("Enter something... ")).strip().lower()
 

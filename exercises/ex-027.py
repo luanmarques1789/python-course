@@ -1,7 +1,9 @@
-# FIRST AND LAST PERSON'S NAME
-# ============================
-# Make a program that reads person's full name showing after the
-# first and last name apart
+"""
+ FIRST AND LAST PERSON'S NAME
+ -----------------------------
+ Make a program that reads person's full name showing after the
+ first and last name apart
+"""
 
 name = str(input('Type your full name: ')).strip()
 

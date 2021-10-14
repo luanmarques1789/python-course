@@ -1,7 +1,9 @@
-# STUDENT'S AVERAGE
-
-# Develop a program that reads two student's grade,
-# calcs and shows their average
+"""
+ STUDENT'S AVERAGE
+ ------------------
+ Develop a program that reads two student's grade,
+ calcs and shows his average
+"""
 
 grade1 = float(input('Type the firts grade: '))
 grade2 = float(input('Type the second grade: '))

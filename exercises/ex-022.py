@@ -1,9 +1,11 @@
-# TEXT ANALYZER
-# -------------
-# Create a program that reads a person's full name and shows:
-# 1.1 The name with all letters in upper and lower case
-# 1.2 How many letters does it have? (no space)
-# 1.3 How many letters does first name have?
+"""
+ TEXT ANALYZER
+ -------------
+ Create a program that reads a person's full name and shows:
+ 1.1 The name with all letters in upper and lower case
+ 1.2 How many letters does it have? (no space)
+ 1.3 How many letters does first name have?
+"""
 
 name = str(input("What's your full name? ")).strip()
 

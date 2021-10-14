@@ -1,6 +1,6 @@
 # PYTHON COURSE
 
-This repo is reserved for my knowledge and exercises resolutions in Python programming language, version 3.9.5
+This repo is reserved for my knowledge and exercises resolutions in Python programming language, version 3.9.5 and higher
 
 ## REFERENCES
 

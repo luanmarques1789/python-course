@@ -1,5 +1,9 @@
-# SECOND RESOLUTION
-# Source: https://www.youtube.com/watch?v=cyGY_83m4Xw&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=43
+"""
+ BISSEXTUS YEAR
+ ---------------
+ Second resolution
+ Source: https://www.youtube.com/watch?v=cyGY_83m4Xw&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=43
+"""
 
 from datetime import date
 

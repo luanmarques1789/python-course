@@ -1,7 +1,9 @@
-# SALARY READJUSTMENT
-# -------------------
-# Make an algorithm that reads employer salary and shows their new salary,
-# with 15% of increase
+"""
+ SALARY READJUSTMENT
+ --------------------
+ Make an algorithm that reads employer salary and shows his new salary,
+ with 15% of increase
+"""
 
 oldSalary = float(input('Type the employer salary: '))
 newSalary = oldSalary * 1.15

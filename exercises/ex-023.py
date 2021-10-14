@@ -1,7 +1,9 @@
-# SPLITTING NUMBER DIGITS
-# -----------------------
-# Make a program that reads a number of 0 to 9999 and shows
-# on screen each splited digits
+"""
+ SPLITTING NUMBER DIGITS
+ ------------------------
+ Make a program that reads a number of 0 to 9999 and shows
+ on screen each splited digits
+"""
 
 num = int(input('Type some number: '))
 

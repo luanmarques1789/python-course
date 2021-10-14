@@ -1,7 +1,9 @@
-# DOUBLE, TRIPLE AND SQUARE ROOT
-
-# an algorithm that receives some user's number
-# and shows the double, triple and square root of this number
+"""
+ DOUBLE, TRIPLE AND SQUARE ROOT
+ -------------------------------
+ an algorithm that receives some user's number
+ and shows the double, triple and square root of this number
+"""
 
 num = int(input('Type some number: '))
 print(f'Double: {num * 2}')

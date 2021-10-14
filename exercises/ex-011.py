@@ -1,8 +1,10 @@
-# PAINTING WALL
-
-# Make a program that reads the wall's height and width in meters,
-# calcs its area and paint quantity needed to paint it,
-# knowing that each paint litre paints an area of 2 squared meters
+"""
+ PAINTING WALL
+ --------------
+ Make a program that reads the wall's height and width in meters,
+ calcs its area and paint quantity needed to paint it,
+ knowing that each paint litre paints an area of 2 squared meters
+"""
 
 height = float(input('height: '))
 width = float(input('width: '))
