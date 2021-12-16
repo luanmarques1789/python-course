@@ -3,7 +3,7 @@
 	"code-runner.ignoreSelection": true,
 	"code-runner.runInTerminal": true,
 
-	"python.linting.mypyEnabled": false,
+	"python.formatting.provider": "autopep8",
 	"python.linting.flake8Enabled": true,
 
 	"[python]": {
